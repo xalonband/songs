@@ -20,7 +20,6 @@ c1:              E               A
 l1: Với bao niềm yêu thương cuộc đời.
 
 ## Chorus
-
 c1: 
 L1: Bên em bên em anh say trong [Bm/D] hạnh phúc [E]
 
@@ -47,7 +46,7 @@ l1: Cuộc đời mãi thắm [A] tươi.
 
 (Chào mừng một mùa xuân đang [A] tới) [F#/A7]
 
-c1:
+c1: 
 l1: Đêm nay đêm nay ngàn năm [Bm/D] sẽ qua [E]
 
 c1: 
@@ -61,7 +60,14 @@ l1: Tình còn dài theo năm [A] tháng. [F#/A7]
 
 ## Outro
 
-Đêm nay đêm nay ngàn năm [Bm/D] sẽ qua [E]
-Xuân theo ngàn năm [C#m] mới về [F#m/A]
-Dù qua bao tháng năm [Bm/D] dài [E]
-Tình người không phôi [A] phai.
+c1: 
+l1: Đêm nay đêm nay ngàn năm [Bm/D] sẽ qua [E]
+
+c1: 
+l1: Xuân theo ngàn năm [C#m] mới về [F#m/A]
+
+c1: 
+l1: Dù qua bao tháng năm [Bm/D] dài [E]
+
+c1: 
+l1: Tình người không phôi [A] phai.
